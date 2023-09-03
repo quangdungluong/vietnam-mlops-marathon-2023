@@ -1,0 +1,14 @@
+params_lgbm:
+  random_state: 42
+  objective: "multiclass"
+  n_estimators: 80
+  learning_rate: 0.15419822170551373
+  num_leaves: 220
+  max_depth: 10
+  min_child_samples: 20
+  reg_alpha: 0
+  reg_lambda: 10
+  min_split_gain: 0.14295189465946107
+  subsample: 0.30000000000000004
+  colsample_bytree: 0.8
+  scale_pos_weight: 4

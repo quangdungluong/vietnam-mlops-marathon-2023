@@ -1,0 +1,13 @@
+params_lgbm:
+  random_state: 42
+  objective: "binary"
+  n_estimators: 85
+  learning_rate: 0.1714946720705048
+  num_leaves: 100
+  max_depth: 10
+  min_child_samples: 10
+  reg_alpha: 0
+  reg_lambda: 0
+  min_split_gain: 4.260736036419051
+  subsample: 0.6000000000000001
+  colsample_bytree: 0.6000000000000001

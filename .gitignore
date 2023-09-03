@@ -1,0 +1,12 @@
+__pycache__
+*.pkl
+eda*
+pseudo*
+performance*
+save_request_data
+phase-2
+phase-3
+prob1/data
+prob2/data
+send_request.py
+tracking_experiment.py
